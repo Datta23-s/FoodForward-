@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Environment variables (SECURITY - never commit)
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+*.tsbuildinfo
+
+# Package lock (optional - can be committed)
+# package-lock.json
+
+# EAS
+.easignore
+
+# Web backup (not part of main app)
+web_backup/
